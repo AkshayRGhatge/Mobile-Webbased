@@ -1,0 +1,19 @@
+body{
+    background-color :aqua;
+}
+
+main {
+    font-weight :bold;
+    font-size : 25px;
+    font-style: italic;
+}
+
+td {
+    border : 2px solid black;
+}
+
+footer{
+    width: 100%;
+    color :black;
+    font-size: 10px
+}

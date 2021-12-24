@@ -1,0 +1,23 @@
+{
+"employee": [
+{
+"name": "Akshay Ghatge",
+"salary" : 9000000,
+"full_time_status" : "full time"
+
+},
+
+{
+"name": "Raman Ra",
+"salary" : 10000000,
+"full_time_status" : "full time"
+
+},
+
+{
+"name": "Sidharat mahesvari",
+"salary" : 20000,
+  "full_time_status" : "part time"
+
+}
+]}
