@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+table,td,th{
+    border-color: white;
+    border-style: solid;
+
+}
+th{
+    text-align: center;
+    background-color: black;
+    font-weight: bold;
+    color: white;
+}
+td{
+    padding: 10px;
+    color:darkred;
+}
+img{
+    width:13.5%;
+    height:20%;
+}
